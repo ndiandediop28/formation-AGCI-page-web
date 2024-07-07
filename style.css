@@ -1,0 +1,30 @@
+#global{
+ 
+   height: 1000px;
+} 
+
+#header{
+    border: 1px solid black;
+    background: whitesmoke;
+    height: 100px;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+ }
+
+
+ #content{
+    border: 1px solid black;
+    background: beige;
+    height: 860px;
+    margin: 5px;
+    padding: 5px;
+ }
+
+ #title{
+   position: relative;
+   bottom: 20px;
+   
+  }
+
+
